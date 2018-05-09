@@ -1,6 +1,8 @@
 Change log for PC Engines binary releases
 =========================================
 
+All BIOS versions with release notes for apu boards: https://pcengines.github.io/
+
 This document contain changelog for binary releases that contain all below
 components:
 
